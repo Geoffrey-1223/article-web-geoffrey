@@ -1,4 +1,4 @@
-# Project Title
+# Article Web System
 
 A web application that interacts with the News API to fetch and display news articles based on user interactions for browsing articles. 
 
