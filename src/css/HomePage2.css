@@ -1,0 +1,52 @@
+.home-page {
+  text-align: center;
+}
+
+.home-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.masthead {
+    opacity: 0.80;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background-image:url('assets/article2.jpg'); 
+    background-size: cover;
+    /* background-position: center; */
+    z-index: -1;
+}
+
+.page-section {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 3rem;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin: 20px 0;
+}
+
+.features, .contact-us {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
